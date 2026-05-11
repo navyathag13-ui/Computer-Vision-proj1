@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 .DS_Store
 saved_drawings/
+
+# Tool metadata
+.claude/
+scratch/
+prompts/
